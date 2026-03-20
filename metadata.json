@@ -1,0 +1,7 @@
+{
+  "name": "Holiday Magic - Creative Technologist Edition",
+  "description": "An interactive 3D Christmas experience with hand tracking and particle physics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
